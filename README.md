@@ -44,7 +44,7 @@ In labour-intensive projects, multiple users handle payments and worker coordina
    git clone https://github.com/your-username/worker-management-system.git
    cd worker-management-system
 2. Run the app
-python Final\ code.py
+python Final Code.py
 This will launch the Tkinter GUI.
 
 3. Database
